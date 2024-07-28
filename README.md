@@ -7,12 +7,12 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api?username=kevenpll&show_icons=true&theme=radical" alt="stats graph" />
+  <img width=56% align="center" src="https://github-readme-stats.vercel.app/api?username=kevenpll&show_icons=true&theme=radical" alt="stats graph" />
 
   <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenpll&theme=radical&layout=compact&hide_border=true" />
 </div>
 <div width=100% align="center">
-  <img width=85% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kevenpll&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8" alt="stats graph" />
+  <img width=98.7%% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kevenpll&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8" alt="stats graph" />
 </div>
 
 ###
