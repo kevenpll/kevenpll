@@ -15,13 +15,13 @@
 
 <div align="center">
   <!-- Linha de cima: dois cards pequenos -->
-  <img height="230" width="550" src="https://github-readme-stats.vercel.app/api?username=kevenpll&show_icons=true&theme=radical&hide_border=true" />
-  <img height="420" width="281" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenpll&theme=radical&hide_border=true" />
+  <img height="184" width="440" src="https://github-readme-stats.vercel.app/api?username=kevenpll&show_icons=true&theme=radical&hide_border=true" />
+  <img height="336" width="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenpll&theme=radical&hide_border=true" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
   <!-- Linha de baixo: um card grande -->
-  <img width="835" src="https://github-readme-activity-graph.vercel.app/graph?username=kevenpll&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8" />
+  <img width="668" src="https://github-readme-activity-graph.vercel.app/graph?username=kevenpll&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8" />
 </div>
 
 ---
