@@ -1,11 +1,8 @@
 <h1 align="center">Olá pessoal! Eu sou o Keven Pereira 🫡</h1>
 
 <div align="center">
-  <a href="https://www.instagram.com/kvn_lte">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
   <a href="https://www.linkedin.com/in/keven-pereira-leite/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </div>
 
@@ -28,7 +25,8 @@
 
 <h2 align="center">💻 Tecnologias</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+    <img src= "https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp">
+    <img src= "https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt= "MySQL">
 </div>
