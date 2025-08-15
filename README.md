@@ -1,4 +1,4 @@
-<h1 align="center">Olá pessoal! Eu sou o Keven Pereira 🫡</h1>
+<h1 align="center">Olá pessoal! Eu sou o Keven Pereira 🫡
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keven-pereira-leite/">
@@ -6,18 +6,18 @@
   </a>
 </div>
 
----
+
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <!-- Linha de cima: dois cards pequenos -->
+  <!-- Linha de cima: -->
   <img height="184" width="440" src="https://github-readme-stats.vercel.app/api?username=kevenpll&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
   <img height="336" width="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenpll&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <!-- Linha de baixo: um card grande -->
+  <!-- Linha de baixo:-->
   <img width="668" src="https://github-readme-activity-graph.vercel.app/graph?username=kevenpll&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8&cache_seconds=1800" />
 </div>
 
